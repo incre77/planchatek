@@ -9,3 +9,7 @@ el attiny se debe programar para enviar un pulso de 200ms cada 24h para resetear
 el cn3791 es un modulo cargador solar para la bateria ion-litio.
 
 Los componentes smd son todos 1206 y su valor está anotado en la misma placa.
+
+<img width="787" height="844" alt="picture" src="https://github.com/user-attachments/assets/44118a23-9c30-4fa3-b461-b3f41a423121" />
+
+
