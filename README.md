@@ -1,4 +1,4 @@
-Una placa base para impremir en una sola cara y conseguir una base para construir un faketek en casa:
+Una placa base para imprimir en una sola cara y conseguir una base para construir un faketek en casa:
 
 El metodo de construccion de una pcb casera con una impresora laser lo podeis ver en varios videos de youtube.
 
