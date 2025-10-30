@@ -1,6 +1,6 @@
 Una placa base para imprimir en una sola cara y conseguir una base para construir un faketek en casa:
 
-El metodo de construccion de una pcb casera con una impresora laser lo podeis ver en varios videos de youtube.
+El metodo de construccion de una pcb casera con una impresora laser lo podeis ver en varios videos de youtube. Ejemplo https://www.youtube.com/watch?v=MX9_9U6Wnu8
 
 Planchatek: ( ra01sh or ht-ra62 ) + nice nano v2 promicro nrf52840 +  medidor batt% + cn3791 + xb8789d0 + attiny.
 
@@ -12,7 +12,8 @@ Los componentes smd son todos 1206 y su valor está anotado en la misma placa.
 
 -----
 
-A single-sided PCB (Printed Circuit Board) to create a base for building a faketek at home: You can find videos on various YouTube channels demonstrating the method for constructing a homemade PCB using a laser printer.
+A single-sided PCB (Printed Circuit Board) to create a base for building a faketek at home: 
+You can find videos on various YouTube channels demonstrating the method for constructing a homemade PCB using a laser printer. Example: https://www.youtube.com/watch?v=MX9_9U6Wnu8
 
 Planchatek: (ra01sh or ht-ra62) + nice nano v2 promicro nrf52840 + batt% meter + cn3791 + xb8789d0 + attiny.
 
