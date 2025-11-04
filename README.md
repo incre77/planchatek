@@ -10,6 +10,9 @@ el cn3791 es un modulo cargador solar para la bateria ion-litio.
 
 Los componentes smd son todos 1206 y su valor está anotado en la misma placa.
 
+Añadi las instrucciones del attiny en un documento pdf. En la pcb añadi dos jumnpers para modificar el comportamiento del attiny un jumper es para poner el attiny en modo pruebas y que resetee en un minuto y el otro jumper duplica los tiempos de manera que en modo pruebas resetea en 2 minutos y en modo normal resetea en 24horas en vez de 12 sin el jumper.
+En modo de pruebas el attiny emite pulsos en otros patillas para mostrar el tiempo restante a traver de leds. Mas info en el pdf.
+
 -----
 
 A single-sided PCB (Printed Circuit Board) to create a base for building a faketek at home: 
@@ -18,5 +21,7 @@ You can find videos on various YouTube channels demonstrating the method for con
 Planchatek: (ra01sh or ht-ra62) + nice nano v2 promicro nrf52840 + batt% meter + cn3791 + xb8789d0 + attiny.
 
 The xb8789d0 is responsible for cutting power to the promicro when the voltage drops to 2.9V. The attiny must be programmed to send a 200ms pulse every 24 hours to reset the promicro. The cn3791 is a solar charger module for the lithium-ion battery. The SMD (Surface-Mount Device) components are all 1206 size, and their value is noted on the board itself.
+
+I added the attiny instructions in a pdf document. In the pcb I added two jumnpers to modify the behavior of the attiny one jumper is to put the attiny in test mode and reset in one minute and the other jumper doubles the times so that in test mode it resets in 2 minutes and in normal mode it resets in 24 hours instead of 12 without the jumper. In test mode the attiny pulses on other pins to show the remaining time through LEDs. More info in the pdf.
 
 <img width="566" height="612" alt="Captura desde 2025-11-04 12-03-55" src="https://github.com/user-attachments/assets/473fe6a3-ae9d-46e3-9b50-a8551f679150" />
