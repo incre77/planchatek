@@ -19,4 +19,4 @@ Planchatek: (ra01sh or ht-ra62) + nice nano v2 promicro nrf52840 + batt% meter +
 
 The xb8789d0 is responsible for cutting power to the promicro when the voltage drops to 2.9V. The attiny must be programmed to send a 200ms pulse every 24 hours to reset the promicro. The cn3791 is a solar charger module for the lithium-ion battery. The SMD (Surface-Mount Device) components are all 1206 size, and their value is noted on the board itself.
 
-
+<img width="566" height="612" alt="Captura desde 2025-11-04 12-03-55" src="https://github.com/user-attachments/assets/473fe6a3-ae9d-46e3-9b50-a8551f679150" />
