@@ -10,7 +10,7 @@ el cn3791 es un modulo cargador solar para la bateria ion-litio.
 
 Los componentes smd son todos 1206 y su valor está anotado en la misma placa.
 
-Añadi las instrucciones del attiny en un documento pdf. En la pcb añadi dos jumnpers para modificar el comportamiento del attiny un jumper es para poner el attiny en modo pruebas y que resetee en un minuto y el otro jumper duplica los tiempos de manera que en modo pruebas resetea en 2 minutos y en modo normal resetea en 24horas en vez de 12 sin el jumper.
+Añadi las instrucciones del attiny en un documento pdf. En la pcb añadi dos jumpers para modificar el comportamiento del attiny, un jumper es para poner el attiny en modo pruebas y que resetee en un minuto y el otro jumper duplica los tiempos de manera que en modo pruebas resetea en 2 minutos y en modo normal resetea en 24horas en vez de 12 sin el jumper.
 En modo de pruebas el attiny emite pulsos en otros patillas para mostrar el tiempo restante a traver de leds. Mas info en el pdf.
 
 -----
