@@ -53,6 +53,10 @@ Mejoras realizadas:
   ch32- https://github.com/incre77/ch32v003
   
 
+----
+UPDATE 15 NOV 2025 
+----
+
 Liam, a charming person from PCBWay, offered to send me some copies of my board made by their company. I accepted, and thanks to this, I was able to discover some design flaws that improved this project.
 
 The truth is that this project is intended for everyone to make their own board at home, but the difference in quality is remarkable, at least for me, as I am not an expert in making PCBs. So, if you don't want to make it yourself and as a form of appreciation to PCBWay, you can order this board from their company, as they do them very well. www.pcbway.com
