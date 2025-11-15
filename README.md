@@ -68,5 +68,5 @@ Redesign of the board dimensions and relocation of the Pro Micro so that the USB
 New Gerber files and a new PDF file uploaded with the aforementioned corrections.
 The software for the ATTINY or the CH32V003 can be found in my other repositories:
 
-ATTINY - https://github.com/incre77/attiny-reset
-CH32 - https://github.com/incre77/ch32v003
+- ATTINY - https://github.com/incre77/attiny-reset
+- CH32V003 - https://github.com/incre77/ch32v003
