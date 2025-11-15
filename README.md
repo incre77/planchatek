@@ -1,3 +1,6 @@
+
+<img width="601" height="664" alt="Captura desde 2025-11-15 13-07-59" src="https://github.com/user-attachments/assets/9c64dce7-bd5a-470d-b936-cbcf6bccc611" />
+
 Una placa base para imprimir en una sola cara y conseguir una base para construir un faketek en casa:
 
 El metodo de construccion de una pcb casera con una impresora laser lo podeis ver en varios videos de youtube. Ejemplo https://www.youtube.com/watch?v=MX9_9U6Wnu8
