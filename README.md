@@ -33,7 +33,7 @@ ACTUALIZACION SABADO 15 NOV 2025
 
 Liam, una persona encantadora de pcbway se ofreció para invitarme a unas copias de mi placa hechos por su empresa pcbway. Acepté y gracias a ello pude descubrir algunos errores de diseño que mejoraron este proyecto.
 
-La verdad es que este proyecto esta pensando para que cada cual haga su placa en casa pero la diferencia es notable, al menos para mi que no soy un experto haciendo placas. Así que si no quieres ponerte a hacerla y en forma de agradecimiento a pcbway podeis mandar a pedir este placa en su empresa que las hace muy bien.  www.pcbway.com
+La verdad es que este proyecto esta pensando para que cada cual haga su placa en casa pero la diferencia es notable, al menos para mi que no soy un experto haciendo placas. Así que si no quieres ponerte a hacerla puedes pedirla en su empresa que las hace muy bien.  www.pcbway.com
 
 ![20251115_113653](https://github.com/user-attachments/assets/9be7edb6-d3a4-492b-ad0a-e1b6e694ad2d)
 
